@@ -1,0 +1,73 @@
+# 🚀 Quick Git Commands - Copy & Paste
+
+## STEP 1: Open Command Prompt
+Press `Win + R`, type `cmd`, press Enter
+
+## STEP 2: Navigate to Project Folder
+```bash
+cd "c:\Users\Rasak\Desktop\coding\GFG course Project"
+```
+
+## STEP 3: Initialize Git (One Time Only)
+```bash
+git init
+git add .
+git commit -m "Initial commit: 21 Days ML/DL/GenAI Portfolio - All 21 projects completed"
+```
+
+## STEP 4: Create GitHub Repository
+1. Go to: https://github.com/new
+2. Repository name: `21-days-ml-dl-genai`
+3. Keep it Public
+4. DO NOT check "Add README"
+5. Click "Create repository"
+
+## STEP 5: Upload to GitHub
+**Replace YOUR_USERNAME with your actual GitHub username!**
+
+```bash
+git remote add origin https://github.com/YOUR_USERNAME/21-days-ml-dl-genai.git
+git branch -M main
+git push -u origin main
+```
+
+**Example (if your username is "johndoe"):**
+```bash
+git remote add origin https://github.com/johndoe/21-days-ml-dl-genai.git
+git branch -M main
+git push -u origin main
+```
+
+## When Prompted for Credentials:
+- Username: [Your GitHub username]
+- Password: [Use Personal Access Token - see GITHUB_SETUP.md]
+
+---
+
+## ✅ That's It! 
+
+Your repository will be live at:
+`https://github.com/YOUR_USERNAME/21-days-ml-dl-genai`
+
+---
+
+## 📝 Future Updates (When You Make Changes)
+
+```bash
+git add .
+git commit -m "Description of changes"
+git push
+```
+
+---
+
+## 🎯 Files Ready in Your Project:
+✅ README.md - Portfolio homepage
+✅ requirements.txt - All dependencies
+✅ .gitignore - Excludes unnecessary files
+✅ GITHUB_SETUP.md - Detailed instructions
+✅ QUICK_COMMANDS.txt - This file
+
+---
+
+**Need detailed help? Read GITHUB_SETUP.md**
