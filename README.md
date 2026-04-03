@@ -243,12 +243,6 @@ This is a personal learning portfolio, but suggestions are welcome!
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **GeeksforGeeks** for the comprehensive course structure
