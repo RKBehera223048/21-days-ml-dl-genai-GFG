@@ -258,14 +258,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
-
-**Created by**: [Your Name]  
-**Course**: GeeksforGeeks - 21 Projects, 21 Days: ML, Deep Learning & GenAI  
-**Year**: 2024
-
----
-
 ## 🌟 Star this repo if you found it helpful!
 
 ---
