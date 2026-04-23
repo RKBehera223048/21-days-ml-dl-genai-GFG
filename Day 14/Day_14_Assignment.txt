@@ -1,0 +1,9 @@
+Packing is a technique that combines multiple short training examples from your dataset into a single, longer sequence.
+
+when Packing = False
+     Example 1	[Inst: Who is you? Ans: I am an AI. <EOS>] [PAD] [PAD] ... [PAD] (11 tokens + 39 PAD tokens)
+     Example 2	[Inst: 2+2=? Ans: 4 <EOS>] [PAD] [PAD] [PAD] [PAD] ... [PAD] (7 tokens + 43 PAD tokens)
+     Example 3	[Inst: What is a cat? Ans: A small mammal. <EOS>] [PAD] ... [PAD] (11 tokens + 39 PAD tokens)
+
+when Packing = True
+     Packed Sequence 1: [Inst: Who is you? Ans: I am an AI. <EOS>] [Inst: 2+2=? Ans: 4 <EOS>] [Inst: What is a cat? Ans: A small mammal.<EOS>] [...more examples...]
