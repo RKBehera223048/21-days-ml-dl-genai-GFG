@@ -1,0 +1,6 @@
+URL: https://www.wikipedia.org
+Depth: 0
+URL: https://av.wikipedia.org
+Depth: 1
+URL: https://atj.wikipedia.org
+Depth: 1
