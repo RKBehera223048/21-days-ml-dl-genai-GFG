@@ -1,0 +1,30 @@
+Go to Amazon website
+search for screen capture type c
+give me the list of products that are above 4 star rating and more than 500 review
+
+Guermok Video Capture Card, 4K USB3.0 HDMI to USB C Capture Card for Streaming, 1080P 60FPS, Compatible with iPad Mac OS Windows, Quest 3, OBS, PS5/4, Switch2/1, Xbox, Camera (Silver) - Rating: 4.4, Reviews: 2.4K
+UGREEN Full HD 1080P 60FPS Capture Card HDMI to USB A/Type C 4K Video Capture Card for Streaming, Recording, Gaming, Compatible with Switch 2, PS4, PS5, Xbox, Work with PC/Windows/Mac OS - Rating: 4.1, Reviews: 1.1K
+4K HDMI to USB 3.0 Type C Video Capture Card 1080P 60FPS Cam Link Capture Adapter Screen Record Device for Streaming, Gaming, Video Conference, Teaching, Live Broadcasting - Rating: 4.3, Reviews: 818
+Newhope USB 3.0 Capture Card with 100W PD - HDMI to USB-C Video Capture Card 1080P 60fps & 2K 30fps Video Audio Capture Device for Streaming, Game Recording, Compatible for Quest 3, Switch, PS4/PS5 - Rating: 4.3, Reviews: 1.3K
+Capture Card Nintendo Switch, 4K HDMI Video Capture Card, 1080P 60FPS, HDMI to USB 3.0 Capture Card for Streaming Work with Camera/Xbox/PS4/PS5/PC/OBS - Rating: 4.3, Reviews: 1.5K
+Capture Card, Video Capture Card HDMI to USB/Type-C 1080P 60FPS Game Capture Card for Streaming, Teaching, Video conferencing or Live Broadcasting - Rating: 4.3, Reviews: 2.2K
+
+Go to https://quotes.toscrape.com/ and extract the following information:
+    - The first 5 quotes on the page
+    - The author of each quote
+    - The tags associated with each quote
+    
+    Present the information in a clear, structured format like:
+    Quote 1: "[quote text]" - Author: [author name] - Tags: [tag1, tag2, ...]
+    Quote 2: "[quote text]" - Author: [author name] - Tags: [tag1, tag2, ...]
+    etc.
+Task Completed
+
+Duration: 24.68 seconds
+Total Input Tokens: 11975
+Final Result: Quote 1: “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.” - Author: Albert Einstein - Tags: ['change', 'deep-thoughts', 'thinking', 'world']
+Quote 2: “It is our choices, Harry, that show what we truly are, far more than our abilities.” - Author: J.K. Rowling - Tags: ['abilities', 'choices']
+Quote 3: “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.” - Author: Albert Einstein - Tags: ['inspirational', 'life', 'live', 'miracle', 'miracles']
+Quote 4: “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.” - Author: Jane Austen - Tags: ['aliteracy', 'books', 'classic', 'humor']
+Quote 5: “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.” - Author: Marilyn Monroe - Tags: ['be-yourself', 'inspirational']
+Status: Success
